@@ -3,6 +3,8 @@ using UnityEngine.InputSystem;
 #endif
 
 using UnityEngine;
+using UnityEngine.Splines;
+using Unity.Cinemachine;
 
 namespace UnityTemplateProjects
 {
